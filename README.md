@@ -1,2 +1,2 @@
 # medical-appointment-agenda
-Application made for a college assignment, theme was choosen by the teacher
+Application made for a college assignment, theme was chosen by the teacher.
